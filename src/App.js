@@ -1,9 +1,10 @@
 import "./App.css";
 import StateExample from "./StateExample";
+import ReducerTuts from "./ReducerTuts";
 function App() {
   return (
     <div className="App">
-      <StateExample />
+      <ReducerTuts />
     </div>
   );
 }
